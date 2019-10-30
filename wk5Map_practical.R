@@ -21,9 +21,10 @@ Londonborough <- st_read("N:/GIS/wk1/statistical-gis-boundaries-london/ESRI/Lond
 Airbnb <- read_csv("N:/GIS/wk5/listings.csv/listings.csv")
 
 
-#Read world cities data
+#Read world cities data - note thge cvs file doesnt work so try shp only 
 
-Worldcities <- st_read("N:/GIS/wk5/Cities/World_Cities.csv")
+
+Worldcities <- st_read("N:/GIS/wk5/Cities/World_Cities.shp")
 
 
 
