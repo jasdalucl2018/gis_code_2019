@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1573733388313.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C9C62247",
+    "lastKnownWriteTime" : 4478898717,
+    "last_content_update" : 1573733388313,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "id" : "7e4821854f314ac38bf8ca191a3f4e04",
+        "name" : "BoroughMap",
+        "title" : "BoroughMap"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "object_explorer"
+}
